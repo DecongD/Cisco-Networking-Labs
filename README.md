@@ -13,7 +13,7 @@ A collection of labs and projects completed in Cisco Packet Tracer to practice a
 
 ## Getting Started
 
-These labs were built using Cisco Packet Tracer v.x.x.x. To open the `.pkt` files, download Packet Tracer from the [Cisco Networking Academy](https://www.netacad.com/).
+These labs were built using Cisco Packet Tracer v.8.2.2. To open the `.pkt` files, download Packet Tracer from the [Cisco Networking Academy](https://www.netacad.com/).
 
 ---
 *This repository is part of my ongoing journey to learn networking. Feedback is welcome!*
