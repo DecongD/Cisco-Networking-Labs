@@ -17,8 +17,8 @@
 
 | Device    | Interface     | IP Address     | Subnet Mask      | Default Gateway|
 | :-------- | :------------ | :------------- | :--------------- | :------------- |
-| Router0   | S0/1/0 (DCE)  | 172.16.1.1     | 255.255.255.192  | N/A            |
-| Router1   | S0/1/0 (DCE)  | 172.16.1.2     | 255.255.255.192  | N/A            |
+| Router1   | S0/1/0 (DCE)  | 172.16.1.1     | 255.255.255.192  | N/A            |
+| Router3   | S0/1/0 (DCE)  | 172.16.1.2     | 255.255.255.192  | N/A            |
 
 
 ## 3. Configuration Snippets
