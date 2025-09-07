@@ -11,7 +11,7 @@
 
 
 ## 1. Topology Diagram
-![alt text](lab1-topology.png)
+![alt text](lab1-topology2.png)
 
 ## 2. IP Addressing Scheme
 
